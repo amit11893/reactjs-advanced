@@ -3,3 +3,5 @@ public/vendor.js
 public/app.js
 coverage/
 build/
+.eslintrc.js
+.vscode/
