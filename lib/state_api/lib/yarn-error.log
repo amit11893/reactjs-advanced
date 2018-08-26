@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\GC\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  F:\cmder_mini\bin;F:\cmder_mini\vendor\conemu-maximus5\ConEmu\Scripts;F:\cmder_mini\vendor\conemu-maximus5;F:\cmder_mini\vendor\conemu-maximus5\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files (x86)\Calibre2\;C:\Python27;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Vim\vim80;C:\Program Files (x86)\vim;C:\Python36\Scripts;C:\Python36;C:\Users\GC\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\Python\Python36\Scripts\;C:\Python\Python36\;C:\Python36\Scripts\;C:\Python36\;C:\Users\GC\AppData\Roaming\npm;C:\Program Files\Sublime Text 3;C:\Python36\Scripts;C:\Program Files\Microsoft VS Code\bin;C:\Users\GC\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\GC\AppData\Roaming\Dashlane\5.13.0.20992\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\GC\AppData\Roaming\Dashlane\5.13.0.20992\ucrt;C:\Users\GC\AppData\Local\Microsoft\WindowsApps;;C:\Users\GC\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\share\vim\vim74;F:\cmder_mini\
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  8.11.4
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\GC\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:120971:13)
+      at emitNone (events.js:106:13)
+      at Interface.emit (events.js:208:7)
+      at Interface._ttyWrite (readline.js:774:16)
+      at ReadStream.onkeypress (readline.js:158:10)
+      at emitTwo (events.js:126:13)
+      at ReadStream.emit (events.js:214:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1010:36)
