@@ -6,7 +6,8 @@
   "author": "Amit Kumar",
   "license": "MIT",
   "scripts": {
-    "dev": "pm2 start lib/server.js --watch",
+    "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
+    "server": "babel-node lib/server.js" ,
     "webpack": "webpack -wd",
     "test": "jest --watch"
   },
@@ -36,6 +37,7 @@
     "pm2": "^3.0.4",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-test-renderer": "^16.4.2",
     "webpack": "^4.17.1"
   }
 }
